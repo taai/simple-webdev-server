@@ -27,9 +27,9 @@ Default PostgreSQL username is ```homestead``` and password is ```secret``` – 
 
 This probably works on any Windows 7/8/10 with pre-installed .NET 4+ (used for downloading and extracting ZIP files).
 
-If you want to use PHP, the [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145) is required to be installed on Windows machine. The ```install.bat``` script will open a download page for it, if it is not installed.
+If you want to use PHP, the *Visual C++ Redistributable for Visual Studio 2017* is required to be installed on Windows machine. The ```install.bat``` script will open a download page for it, if it is not installed.
 
-Also a small utility [RunHiddenConsole.exe](http://redmine.lighttpd.net/attachments/660/RunHiddenConsole.zip) is being downloaded and used to start programs without keeping the "black screens" open.
+Also a small utility [RunHiddenConsole.exe](https://redmine.lighttpd.net/attachments/download/660/RunHiddenConsole.zip', 'install_files\RunHiddenConsole.zip) is being downloaded and used to start programs without keeping the "black screens" open.
 
 ## License
 
